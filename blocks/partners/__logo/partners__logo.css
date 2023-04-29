@@ -1,0 +1,10 @@
+.partners__logo {
+  background-image: url('../../../images/partner-toner55.jpg');
+  width: 30vw;
+  padding-top: 30vw;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 0 30px #22ecf333;
+  border-radius: 5px;
+}

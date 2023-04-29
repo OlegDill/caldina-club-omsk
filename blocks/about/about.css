@@ -1,0 +1,6 @@
+.about {
+  background: rgb(22, 21, 22);
+  position: relative;
+  overflow-x: clip;
+  padding: 150px 15vw;
+}

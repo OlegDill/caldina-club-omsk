@@ -1,0 +1,13 @@
+.about__background {
+  background-image: url(../../../images/logo-white.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  width: 50vw;
+  height: 40vw;
+  top: 20%;
+  right: -30px;
+  rotate: 20deg;
+  opacity: 0.1;
+}

@@ -1,0 +1,8 @@
+.partners {
+  background: rgb(22, 21, 22);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 15vw 150px 15vw;
+  position: relative;
+}

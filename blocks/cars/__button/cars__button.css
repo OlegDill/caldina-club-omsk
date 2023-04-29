@@ -1,0 +1,21 @@
+.cars__button {
+  position: absolute;
+  box-sizing: border-box;
+  border: 2px solid #33B7BC;
+  border-radius: 8px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Stolzl Regular' ,Arial, Helvetica, sans-serif;
+  color: #FFFFFF;
+  background-color: transparent;
+  padding: 1vw;
+  bottom: 2vw;
+  right: 3vw;
+  cursor: pointer;
+  transition: .5s;
+}
+
+.cars__button:hover {
+  box-shadow: 0 0 1vw #33B7BC;
+}

@@ -1,0 +1,20 @@
+.header__link {
+  border-radius: 50%;
+  width: 4vw;
+  height: 4vw;
+  transition: 0.5s;
+}
+
+.header__link_telegram {
+  background: #34AADF url('../../../images/telegram.png') no-repeat center;
+  margin-right: 2vw;
+}
+
+.header__link_whatsapp {
+  background: #43D854 url('../../../images/whatsapp.png') no-repeat center;
+}
+
+.header__link:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 1vw #22ECF3;
+}

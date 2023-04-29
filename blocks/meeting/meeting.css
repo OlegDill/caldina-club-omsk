@@ -1,0 +1,8 @@
+.meeting {
+  background: rgb(22, 21, 22);
+  display: flex;
+  flex-direction: column;
+  padding: 150px 0;
+  position: relative;
+  overflow: hidden;
+}

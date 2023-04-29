@@ -1,0 +1,5 @@
+.header__box-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

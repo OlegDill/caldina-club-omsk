@@ -1,0 +1,20 @@
+.partners__ellipse {
+  border-radius: 50%;
+  width: 10vw;
+  height: 10vw;
+  position: absolute;
+}
+
+.partners__ellipse_one {
+  background: #053DAA;
+  filter: blur(120px);
+  left: 10%;
+  top: 20%;
+}
+
+.partners__ellipse_two {
+  background: #109E9E;
+  filter: blur(120px);
+  right: 10%;
+  bottom: 40%;
+}

@@ -1,0 +1,11 @@
+.partners__sale-caption {
+  margin: 5px 0 0 0;
+  font-family: 'Stolzl Regular', Arial, Helvetica, sans-serif;
+  font-size: 0.7vw;
+  color: #fff;
+  transition: .5s;
+}
+
+.partners__sale-caption:hover {
+  transform: scale(1.2);
+}

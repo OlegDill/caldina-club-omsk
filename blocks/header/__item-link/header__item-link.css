@@ -1,0 +1,9 @@
+.header__item-link {
+  color: white;
+  transition: .5s;
+  font-size: 1vw;
+}
+
+.header__item-link:hover {
+  opacity: .3;
+}

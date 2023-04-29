@@ -1,0 +1,16 @@
+.header__subtitle {
+  font-family: 'Stolzl Regular' ,Arial, Helvetica, sans-serif;
+  font-size: 1.5vw;
+  text-transform: uppercase;
+  margin: 0 0 0 0;
+  text-align: center;
+  color: white;
+}
+
+.header__subtitle_uppercase {
+  font-size: 2.5vw;
+}
+
+.header__subtitle:last-child {
+  margin-bottom: 0;
+}

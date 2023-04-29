@@ -1,0 +1,98 @@
+/* vendor */
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+/* body */
+@import url(../blocks/body/body.css);
+/* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__item/header__item.css);
+@import url(../blocks/header/__item-link/header__item-link.css);
+@import url(../blocks/header/__box-menu/header__box-menu.css);
+@import url(../blocks/header/__box-logo/header__box-logo.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__box-title/header__box-title.css);
+@import url(../blocks/header/__item-link/header__item-link.css);
+@import url(../blocks/header/__box-link/header__box-link.css);
+@import url(../blocks/header/__link/header__link.css);
+/* cars */
+@import url(../blocks/cars/cars.css);
+@import url(../blocks/cars/__button/cars__button.css);
+@import url(../blocks/cars/__caption/cars__caption.css);
+@import url(../blocks/cars/__card/cars__card.css);
+/* about */
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__background/about__background.css);
+@import url(../blocks/about/__box/about__box.css);
+@import url(../blocks/about/__caption/about__caption.css);
+@import url(../blocks/about/__ellipse/about__ellipse.css);
+@import url(../blocks/about/__subtitle/about__subtitle.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__container/about__container.css);
+@import url(../blocks/about/__num/about__num.css);
+@import url(../blocks/about/__text/about__text.css);
+@import url(../blocks/about/__box-subtitle/about__box-subtitle.css);
+/* partners */
+@import url(../blocks/partners/partners.css);
+@import url(../blocks/partners/__caption/partners__caption.css);
+@import url(../blocks/partners/__container/partners__container.css);
+@import url(../blocks/partners/__logo/partners__logo.css);
+@import url(../blocks/partners/__name/partners__name.css);
+@import url(../blocks/partners/__services-item/partners__services-item.css);
+@import url(../blocks/partners/__services-list/partners__services-list.css);
+@import url(../blocks/partners/__title/partners__title.css);
+@import url(../blocks/partners/__sale/partners__sale.css);
+@import url(../blocks/partners/__sale-caption/partners__sale-caption.css);
+@import url(../blocks/partners/__ellipse/partners__ellipse.css);
+@import url(../blocks/partners/__box-about/partners__box-about.css);
+@import url(../blocks/partners/__box-text/partners__box-text.css);
+@import url(../blocks/partners/__box-sale/partners__box-sale.css);
+@import url(../blocks/partners/__arrow/partners__arrow.css);
+@import url(../blocks/partners/__image-link/partners__image-link.css);
+@import url(../blocks/partners/__link-list/partners__link-list.css);
+@import url(../blocks/partners/__link-item/partners__link-item.css);
+/* meeting */
+@import url(../blocks/meeting/meeting.css);
+@import url(../blocks/meeting/__box-caption/meeting__box-caption.css);
+@import url(../blocks/meeting/__caption/meeting__caption.css);
+@import url(../blocks/meeting/__container/meeting__container.css);
+@import url(../blocks/meeting/__map/meeting__map.css);
+@import url(../blocks/meeting/__more-item/meeting__more-item.css);
+@import url(../blocks/meeting/__more-list/meeting__more-list.css);
+@import url(../blocks/meeting/__title/meeting__title.css);
+@import url(../blocks/meeting/__background/meeting__background.css);
+@import url(../blocks/meeting/__ellipse/meeting__ellipse.css);
+/* collage */
+@import url(../blocks/collage/collage.css);
+@import url(../blocks/collage/__container/collage__container.css);
+@import url(../blocks/collage/__ellipse/collage__ellipse.css);
+@import url(../blocks/collage/__photo/collage__photo.css);
+/* telegram */
+@import url(../blocks/telegram/telegram.css);
+@import url(../blocks/telegram/__background/telegram__background.css);
+@import url(../blocks/telegram/__container/telegram__container.css);
+@import url(../blocks/telegram/__ellipse/telegram__ellipse.css);
+@import url(../blocks/telegram/__qr/telegram__qr.css);
+@import url(../blocks/telegram/__subtitle/telegram__subtitle.css);
+@import url(../blocks/telegram/__text/telegram__text.css);
+@import url(../blocks/telegram/__title/telegram__title.css);
+@import url(../blocks/telegram/__box-text/telegram__box-text.css);
+
+
+
+
+
+
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__about/footer__about.css);
+@import url(../blocks/footer/__contact-container/footer__contact-container.css);
+@import url(../blocks/footer/__contact-item/footer__contact-item.css);
+@import url(../blocks/footer/__contact-link/footer__contact-link.css);
+@import url(../blocks/footer/__contact-list/footer__contact-list.css);
+@import url(../blocks/footer/__container-logo/footer__container-logo.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__contact-title/footer__contact-title.css);

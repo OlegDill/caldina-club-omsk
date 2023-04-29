@@ -1,0 +1,10 @@
+.header__item {
+  margin-right: 16px;
+  font-family: 'Stolzl Regular' ,Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.header__item:last-child {
+  margin-right: 0;
+}

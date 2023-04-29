@@ -1,0 +1,9 @@
+.cars__caption {
+  font-family: 'Stolzl Regular' ,Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 2vw;
+  margin: 0;
+  position: absolute;
+  bottom: 3vw;
+  left: 3vw;
+}

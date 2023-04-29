@@ -1,0 +1,18 @@
+.header__title {
+  font-family: 'Stolzl Regular', Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  margin: 0 0 5px 0;
+  text-align: center;
+  color: white;
+}
+
+.header__title_name {
+  font-size: 7vw;
+  line-height: 5.5vw;
+}
+
+.header__title_caption {
+  font-size: 3.5vw;
+  letter-spacing: 0.35em;
+  line-height: 2.6vw;
+}

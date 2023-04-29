@@ -1,0 +1,10 @@
+.meeting__more-item {
+  color: #868686;
+  font-family: 'Stolzl Regular', Arial, Helvetica, sans-serif;
+  font-size: 1vw;
+  margin: 0 0 5px 0;
+}
+
+.meeting__more-item:last-child {
+  margin-bottom: 0;
+}

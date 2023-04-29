@@ -1,0 +1,41 @@
+.cars__card {
+  height: 26vw;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  border-radius: 5px;
+}
+
+.cars__card_one {
+  background-image: url('../../../images/pic19be.jpg');
+}
+
+.cars__card_two {
+  background-image: url('../../../images/pic19af.jpg');
+}
+
+.cars__card_three {
+  background-image: url('../../../images/pic21be.jpg');
+}
+
+.cars__card_four {
+  background-image: url('../../../images/pic21af.webp');
+}
+
+.cars__card_fife {
+  background-image: url('../../../images/pic24be.webp');
+}
+
+.cars__card_six {
+  background-image: url('../../../images/pic24af.jpg');
+}
+
+.cars__card::before {
+  content: '';
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  top: 0;
+}

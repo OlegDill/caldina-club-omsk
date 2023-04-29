@@ -1,0 +1,23 @@
+.partners__arrow {
+  position: absolute;
+  top: 45%;
+  width: 4vw;
+  height: 10vw;
+  cursor: pointer;
+  z-index: 1;
+  transition: .5s;
+}
+
+.partners__arrow_left {
+  left: 10vw;
+}
+
+.partners__arrow_right {
+  right: 10vw;
+  rotate: 180deg;
+}
+
+.partners__arrow:hover {
+  filter: drop-shadow(0 0 0.5vw white);
+  transform: scale(1.2);
+}

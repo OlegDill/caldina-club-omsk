@@ -1,0 +1,8 @@
+.header__box-link {
+  position: absolute;
+  top: 80%;
+  right: 5%;
+  display: flex;
+  flex-direction: row;
+  z-index: 1;
+}

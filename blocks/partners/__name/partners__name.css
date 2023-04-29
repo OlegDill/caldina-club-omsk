@@ -1,0 +1,14 @@
+.partners__name {
+  margin: 0 0 30px 0;
+  font-family: 'Stolzl Regular', Arial, Helvetica, sans-serif;
+  color: rgb(22, 21, 22);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4vw;
+  line-height: 90px;
+  display: flex;
+  align-items: center;
+  text-shadow: 0px 0px 4px #22ecf3;
+  line-height: 3vw;
+  text-transform: uppercase;
+}

@@ -1,0 +1,129 @@
+.collage__photo {
+  position: absolute;
+  transition: .5s;
+}
+
+.collage__photo:hover {
+  transform: scale(1.4);
+  z-index: 1;
+}
+
+.collage__photo_one {
+  top: 0;
+  left: 0;
+  width: 20vw;
+}
+
+.collage__photo_two {
+  top: 10vw;
+  left: 17%;
+  width: 17vw;
+}
+
+.collage__photo_three {
+  right: 10%;
+  top: 20vw;
+  width: 20vw;
+}
+
+.collage__photo_four {
+  left: 10%;
+  top: 19vw;
+  width: 15vw;
+}
+
+.collage__photo_fife {
+  right: 5%;
+  top: 33vw;
+  width: 10vw;
+}
+
+.collage__photo_six {
+  left: 13%;
+  top: 36vw;
+  width: 16vw;
+}
+
+.collage__photo_seven {
+  right: 7%;
+  top: 45vw;
+  width: 16vw;
+}
+
+.collage__photo_eight {
+  left: 3%;
+  top: 44vw;
+  width: 15vw;
+}
+
+.collage__photo_nine {
+  left: 30%;
+  top: 40vw;
+  width: 20vw;
+}
+
+.collage__photo_ten {
+  right: 19%;
+  top: 55vw;
+  width: 8vw;
+}
+
+.collage__photo_eleven {
+  right: 29%;
+  top: 7vw;
+  width: 23vw;
+}
+
+.collage__photo_twelve {
+  right: 36%;
+  top: 27vw;
+  width: 21vw;
+}
+
+.collage__photo_thirteen {
+  right: 30%;
+  top: 48vw;
+  width: 17vw;
+}
+
+.collage__photo_fourteen {
+  left: 2%;
+  top: 27vw;
+  width: 11vw;
+}
+
+.collage__photo_fifteen {
+  left: 4%;
+  top: 16vw;
+  width: 10vw;
+}
+
+.collage__photo_sixteen {
+  right: 2%;
+  top: 1vw;
+  width: 18vw;
+}
+
+.collage__photo_seventeen {
+  left: 32%;
+  top: 2vw;
+  width: 15vw;
+}
+
+.collage__photo_eighteen {
+  left: 15%;
+  top: 51vw;
+  width: 9vw;
+}
+
+.collage__photo_nineteen {
+  left: 23%;
+  top: 28vw;
+  width: 22vw;
+}
+
+.collage__photo_twenty {
+  right: 23%;
+  top: 5vw;
+  width: 9vw;
+}
