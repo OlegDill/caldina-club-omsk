@@ -8,13 +8,13 @@
 .telegram__ellipse_one {
   background: #053DAA;
   filter: blur(120px);
-  left: 30%;
-  bottom: 10%;
+  left: 20%;
+  bottom: 35%;
 }
 
 .telegram__ellipse_two {
   background: #109E9E;
   filter: blur(120px);
-  left: 10%;
-  top: 20%;
+  left: 5%;
+  top: 40%;
 }

@@ -69,6 +69,7 @@
 @import url(../blocks/collage/__container/collage__container.css);
 @import url(../blocks/collage/__ellipse/collage__ellipse.css);
 @import url(../blocks/collage/__photo/collage__photo.css);
+@import url(../blocks/collage/__background/collage__background.css);
 /* telegram */
 @import url(../blocks/telegram/telegram.css);
 @import url(../blocks/telegram/__background/telegram__background.css);
@@ -79,20 +80,13 @@
 @import url(../blocks/telegram/__text/telegram__text.css);
 @import url(../blocks/telegram/__title/telegram__title.css);
 @import url(../blocks/telegram/__box-text/telegram__box-text.css);
-
-
-
-
-
-
-
 /* footer */
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__about/footer__about.css);
-@import url(../blocks/footer/__contact-container/footer__contact-container.css);
-@import url(../blocks/footer/__contact-item/footer__contact-item.css);
-@import url(../blocks/footer/__contact-link/footer__contact-link.css);
-@import url(../blocks/footer/__contact-list/footer__contact-list.css);
-@import url(../blocks/footer/__container-logo/footer__container-logo.css);
-@import url(../blocks/footer/__logo/footer__logo.css);
-@import url(../blocks/footer/__contact-title/footer__contact-title.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__box-info/footer__box-info.css);
+@import url(../blocks/footer/__box-menu/footer__box-menu.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__menu-item/footer__menu-item.css);
+@import url(../blocks/footer/__menu-link/footer__menu-link.css);
+@import url(../blocks/footer/__menu-list/footer__menu-list.css);
+@import url(../blocks/footer/__author-link/footer__author-link.css);

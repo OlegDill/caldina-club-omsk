@@ -1,0 +1,9 @@
+.footer__menu-list {
+  padding: 0;
+  list-style: none;
+  margin: 0 15vw 0 0;
+}
+
+.footer__menu-list:last-child {
+  margin-right: 0;
+}

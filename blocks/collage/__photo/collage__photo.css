@@ -1,6 +1,7 @@
 .collage__photo {
   position: absolute;
   transition: .5s;
+  border-radius: 5px;
 }
 
 .collage__photo:hover {

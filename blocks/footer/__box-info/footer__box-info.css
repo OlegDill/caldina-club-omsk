@@ -1,0 +1,8 @@
+.footer__box-info {
+  border-top: 1px solid #272727;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}

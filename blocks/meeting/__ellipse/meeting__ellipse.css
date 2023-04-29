@@ -9,12 +9,12 @@
   background: #053DAA;
   filter: blur(120px);
   left: 10%;
-  top: 20%;
+  top: 25%;
 }
 
 .meeting__ellipse_two {
   background: #109E9E;
   filter: blur(120px);
-  left: 30%;
-  bottom: 10%;
+  left: 40%;
+  bottom: 40%;
 }
