@@ -1,0 +1,17 @@
+.attributes__button-info {
+  background: #33B7BC;
+    border-radius: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    border: none;
+    font-family: 'Stolzl Regular', Arial, Helvetica, sans-serif;
+    padding: 1vw;
+    margin-top: 3vw;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.attributes__button-info:hover {
+  box-shadow: 0 0 1vw #33B7BC;
+}

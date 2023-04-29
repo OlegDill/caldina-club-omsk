@@ -1,0 +1,9 @@
+.attributes__image {
+  background-image: url(../../../images/caldina-3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 40vw;
+  height: 15vw;
+  opacity: 0.5;
+}

@@ -81,6 +81,16 @@
 @import url(../blocks/telegram/__text/telegram__text.css);
 @import url(../blocks/telegram/__title/telegram__title.css);
 @import url(../blocks/telegram/__box-text/telegram__box-text.css);
+/* attributes */
+@import url(../blocks/attributes/attributes.css);
+@import url(../blocks/attributes/__button-info/attributes__button-info.css);
+@import url(../blocks/attributes/__container/attributes__container.css);
+@import url(../blocks/attributes/__image/attributes__image.css);
+@import url(../blocks/attributes/__item-link/attributes__item-link.css);
+@import url(../blocks/attributes/__item/attributes__item.css);
+@import url(../blocks/attributes/__list/attributes__list.css);
+@import url(../blocks/attributes/__title/attributes__title.css);
+@import url(../blocks/attributes/__ellipse/attributes__ellipse.css);
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);

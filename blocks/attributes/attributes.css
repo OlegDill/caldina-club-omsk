@@ -1,0 +1,8 @@
+.attributes {
+  background: rgb(22, 21, 22);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  padding: 150px 15vw;
+}
