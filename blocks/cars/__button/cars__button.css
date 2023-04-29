@@ -15,7 +15,6 @@
   cursor: pointer;
   transition: .5s;
 }
-
 .cars__button:hover {
   box-shadow: 0 0 1vw #33B7BC;
 }
