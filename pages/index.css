@@ -53,6 +53,7 @@
 @import url(../blocks/partners/__image-link/partners__image-link.css);
 @import url(../blocks/partners/__link-list/partners__link-list.css);
 @import url(../blocks/partners/__link-item/partners__link-item.css);
+@import url(../blocks/partners/__button__all/partners__button-all.css);
 /* meeting */
 @import url(../blocks/meeting/meeting.css);
 @import url(../blocks/meeting/__box-caption/meeting__box-caption.css);
@@ -90,3 +91,4 @@
 @import url(../blocks/footer/__menu-link/footer__menu-link.css);
 @import url(../blocks/footer/__menu-list/footer__menu-list.css);
 @import url(../blocks/footer/__author-link/footer__author-link.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
