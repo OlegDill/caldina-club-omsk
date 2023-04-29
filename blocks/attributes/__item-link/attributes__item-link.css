@@ -3,6 +3,7 @@
   color: #33B7BC;
   font-family: 'Stolzl Regular', Arial, Helvetica, sans-serif;
   font-size: 2vw;
+  transition: .5s;
 }
 
 .attributes__item-link:hover {

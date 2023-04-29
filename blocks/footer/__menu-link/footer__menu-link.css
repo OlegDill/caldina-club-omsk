@@ -2,4 +2,10 @@
   color: #868686;
   font-family: 'Stolzl Regular', Arial, Helvetica, sans-serif;
   font-size: 1.5vw;
+  transition: .5s;
+}
+
+.footer__menu-link:hover {
+  filter: drop-shadow(0 0 1vw #fff);
+  color: #fff;
 }

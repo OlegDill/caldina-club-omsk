@@ -1,4 +1,11 @@
 .footer__logo {
   width: 2vw;
   opacity: .5;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.footer__logo:hover {
+  opacity: 1;
+  filter: drop-shadow(0 0 1vw #fff);
 }
