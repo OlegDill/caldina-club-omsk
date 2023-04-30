@@ -1,4 +1,5 @@
 .telegram__qr {
   width: 25vw;
+  height: 25vw;
   border-radius: 5px;
 }

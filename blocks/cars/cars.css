@@ -4,5 +4,5 @@
   grid-template-rows: repeat(3, 1fr);
   gap: 0.3vw;
   background: rgb(22, 21, 22);
-  padding-bottom: 150px;
+  padding-bottom: 15vw;
 }
