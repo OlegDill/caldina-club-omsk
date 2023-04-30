@@ -24,11 +24,12 @@
 }
 
 .cars__card_fife {
-  background-image: url('../../../images/pic24be.webp');
+  background-image: url('../../../images/pic24af.jpg');
 }
 
 .cars__card_six {
-  background-image: url('../../../images/pic24af.jpg');
+  background-image: url('../../../images/pic24be.webp');
+
 }
 
 .cars__card::before {
